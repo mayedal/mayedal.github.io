@@ -1,0 +1,14 @@
+body {
+    background-color: CadetBlue;
+}
+
+h1 {
+    color: Azure;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
